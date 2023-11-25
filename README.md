@@ -1,2 +1,2 @@
-# Student_Attendance_system
-CodeAlpha _student_attendance_system
+# CodeAlpha_Student_Attendance_system
+Student Attendance system using Java
